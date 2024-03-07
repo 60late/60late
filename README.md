@@ -14,11 +14,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
+    <img src="https://img.shields.io/badge/-Vite-4FC08D?style=flat&logo=Vite&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+
 </div>
 <br/>
 
@@ -27,3 +28,8 @@
 - 🔭 I’m currently working on [vite-plugin-minipic](https://github.com/60late/vite-plugin-minipic)
 - 💬 Reach me by 470535003@qq.com
 - ⭐ Give me a STAR, if you like [my repositories!](https://github.com/60late)
+
+<div>
+    <img alt="" height="165"  src="https://github-readme-stats.vercel.app/api?username=60late&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true"/>
+    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=60late&hide=PHP&layout=compact" />
+</div>
