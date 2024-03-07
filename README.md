@@ -17,8 +17,10 @@
   <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-    <img src="https://img.shields.io/badge/-Vite-4FC08D?style=flat&logo=Vite&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=Vite&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nextjs-%23000000?style=flat&logo=nextdotjs&logoColor=white">
 
 </div>
 <br/>
